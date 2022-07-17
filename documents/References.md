@@ -50,7 +50,7 @@
 
 ## 操作系统
 * 计算机操作系统基础：https://github.com/CyC2018/CS-Notes/blob/master/notes/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%20-%20%E6%A6%82%E8%BF%B0.md
-* 操作系统常见面试题：https://github.com/Snailclimb/JavaGuide/blob/main/docs/cs-basics/operating-system/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98&%E7%9F%A5%E8%AF%86%E7%82%B9%E6%80%BB%E7%BB%93.md
+* 操作系统常见面试题：https://github.com/Snailclimb/JavaGuide/blob/main/docs/cs-basics/operating-system/operating-system-basic-questions-01.md
 
 # 第四讲
 

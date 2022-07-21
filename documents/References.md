@@ -57,7 +57,7 @@
 ## Linux基础
 * https://github.com/CyC2018/CS-Notes/blob/master/notes/Linux.md
 * https://javaguide.cn/cs-basics/operating-system/linux-intro/
-* （Linux开发、运维）Shell脚本入门：https://github.com/Snailclimb/JavaGuide/blob/master/docs/operating-system/Shell.md
+* （Linux开发、运维）Shell脚本入门：[https://github.com/Snailclimb/JavaGuide/blob/master/docs/operating-system/Shell.md](https://javaguide.cn/cs-basics/operating-system/shell-intro.html#%E8%B5%B0%E8%BF%9B-shell-%E7%BC%96%E7%A8%8B%E7%9A%84%E5%A4%A7%E9%97%A8)
 
 # 第五讲
 

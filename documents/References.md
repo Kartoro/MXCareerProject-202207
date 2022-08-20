@@ -115,6 +115,7 @@
 
 * 二叉堆：https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653195207&idx=2&sn=12689c6c1a92e7ec3cce4d423019ec2a&chksm=8c99f91dbbee700b8e760d06b27582037ab0713295dacf2b5a7a7f954c0032fe860aa0bf8b74&scene=21#wechat_redirect
 * 堆排序：https://blog.csdn.net/moakun/article/details/82919797
+* 构建二叉堆时间复杂度为 O(n) 的证明：https://blog.csdn.net/LinuxTiger/article/details/7172258
 
 ## 内存结构 & 虚拟机
 

@@ -136,6 +136,7 @@
 
 # 第十八讲
 
+* 动态规划：https://blog.csdn.net/lilybupt/article/details/89294095
 * 代码重构：https://zhuanlan.zhihu.com/p/20723717
 * 识别代码坏味道：https://www.cnblogs.com/gotoschool/p/11307331.html
 

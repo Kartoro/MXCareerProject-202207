@@ -137,6 +137,7 @@
 # 第十八讲
 
 * 动态规划：https://blog.csdn.net/lilybupt/article/details/89294095
+* 贪心算法：https://www.jianshu.com/p/ab89df9759c8
 * 代码可读性：https://github.com/CyC2018/CS-Notes/blob/master/notes/%E4%BB%A3%E7%A0%81%E5%8F%AF%E8%AF%BB%E6%80%A7.md
 * 代码重构：https://zhuanlan.zhihu.com/p/20723717
 * 识别代码坏味道：https://www.cnblogs.com/gotoschool/p/11307331.html
@@ -145,7 +146,7 @@
 
 ## 滑动窗口
 
-* ttps://www.zhihu.com/question/314669016
+* https://www.zhihu.com/question/314669016
 
 ## 图论
 
